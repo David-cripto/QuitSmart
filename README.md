@@ -10,18 +10,18 @@ A companion diagnostic approach to understanding the effectiveness of therapy wi
 
 ![alt text](Images/re.png)
 
-aroma_script:
+The script helps to communicate the aroma diffuser with the EEG instrument.
 
-    This script helps to communicate the aroma diffuser with the EEG instrument.
+    aroma_script.ipynb
 
-Motor Imagery:
+The script that was written to randomly show the smoking and non-smoking-related pictures
 
-    The script that was written to randomly show the smoking and non-smoking-related pictures
-
-analysis.ipynb
-
-    The script analyzes the recording of the data.
+    Motor Imagery.ipynb
+   
+The script analyzes the recording of the data.
+    
+    analysis.ipynb
 
 An example of the output of an analysis
  
- ![alt text](Images/re.png)
+ ![alt text](Images/result.png)
