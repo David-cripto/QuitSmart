@@ -1,27 +1,27 @@
 # QuitSmart
 
-Companion diagnostic approach to understand effectiveness of therapy with 3 step procedural
+A companion diagnostic approach to understanding the effectiveness of therapy with a 3-step procedural
 
-    step1:Measure respond with EEG
+    Step 1: Measure and respond with EEG
 
-    step2:Introduces the effective therapy for addiction
+    Step 2:Introduces the effective therapy for addiction.
 
-    step3:Measure the respons again and valdating it how much the treapy is helpfull
+    step 3: Measure the response again and evaluate how much the therapy is beneficial.
 
 ![alt text](Images/re.png)
 
 aroma_script:
 
-    This script helps to comunicate the aroma diffiusser with the EEG instrument 
+    This script helps to communicate the aroma diffuser with the EEG instrument.
 
 Motor Imagery:
-    
-    The script that written to show randomly show the smokiing and non smoking related picture
+
+    The script that was written to randomly show the smoking and non-smoking-related pictures
 
 analysis.ipynb
-   
-     The script anlaysisng the recording of the data
 
-Example of the output of anlaysis 
+    The script analyzes the recording of the data.
+
+An example of the output of an analysis
  
  ![alt text](Images/re.png)
